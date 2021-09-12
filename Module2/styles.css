@@ -34,8 +34,8 @@ h1 {
 .section {  
   clear: margin;
   position: relative;
-  color: Aqua;
-  background-color: SeaShell;
+  color: black;
+  background-color: orange;
   padding: 10px;
   padding-top: 45px;
   font-size: 100%;
